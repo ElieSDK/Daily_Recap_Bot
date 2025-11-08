@@ -1,2 +1,5 @@
-# Daily_Recap_Bot2
-Personal automation tool that uses APIs to collect and summarize daily information for personal use
+# Daily_Recap_Bot
+
+A simple personal automation tool that collects and summarizes daily information from various APIs — like weather, news, and forex rates.  
+
+Nothing fancy, just something I built for myself to quickly see key info every day. For personal use only.
