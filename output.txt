@@ -1,0 +1,24 @@
+============================
+WEATHER SUMMARY
+============================
+2025-11-08: Max 16.9°C / Min 9.9°C
+2025-11-09: Max 12.5°C / Min 9.8°C
+2025-11-10: Max 19.6°C / Min 10.0°C
+2025-11-11: Max 17.0°C / Min 9.4°C
+2025-11-12: Max 16.3°C / Min 8.6°C
+2025-11-13: Max 17.7°C / Min 7.6°C
+2025-11-14: Max 19.2°C / Min 9.3°C
+
+============================
+NEWS HEADLINES (Top 5)
+============================
+- Pentagon is shifting weapons purchases to ‘a wartime footing’, Hegseth announces - live
+- Hegseth wants to prioritize speed as the Pentagon buys weapons
+- USDA working to comply with court order to pay full SNAP benefits, agency official says
+- Marshawn Kneeland: Dallas Cowboys quarterback Dak Prescott says players 'hurting' following death
+- Rivian gives RJ Scaringe a new pay package worth up to $5B
+
+============================
+FOREX RATE
+============================
+1 EUR = 1.156938 USD
