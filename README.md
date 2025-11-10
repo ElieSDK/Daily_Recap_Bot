@@ -1,4 +1,4 @@
-# Daily_Recap_Bot
+# Daily Recap Bot
 
 A simple personal automation tool that collects and summarizes daily information from various APIs — like weather, news, and forex rates.  
 
